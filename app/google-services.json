@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752116645918",
+    "project_id": "learnhtml-e1109",
+    "storage_bucket": "learnhtml-e1109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752116645918:android:929b367c55d9c0e32cae0f",
+        "android_client_info": {
+          "package_name": "com.spawn.learnhtml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRiV_rSotVQwd7ge-ssqWZEpeCTHwGl0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
